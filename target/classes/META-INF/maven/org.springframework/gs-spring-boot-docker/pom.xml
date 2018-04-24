@@ -18,7 +18,7 @@
     </parent>
 
     <properties>
-        <docker.image.prefix>dockerTest</docker.image.prefix>
+        <docker.image.prefix>rodriguezjonathan</docker.image.prefix>
         <java.version>1.8</java.version>
     </properties>
 
